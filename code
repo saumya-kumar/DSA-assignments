@@ -3,4 +3,7 @@ i="y"
 read n1
 echo "enter first number"
 read n2
-echo "enter second number"
+echo "put 2nd number"
+while($i==1)
+echo "press 1 for subtraction"
+echo "press 2 for addition"
