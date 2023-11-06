@@ -1,1 +1,6 @@
 $sum=0;
+i="y"
+read n1
+echo "enter first number"
+read n2
+echo "enter second number"
